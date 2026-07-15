@@ -1,0 +1,220 @@
+V46Activity_Hailunting_RoleA.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	repeat: xy
+RoleA_qunzi10
+	bounds: 293, 319, 267, 141
+RoleA_qunzi11
+	bounds: 1013, 160, 169, 114
+RoleA_qunzi12
+	bounds: 156, 149, 153, 134
+RoleA_qunzi13
+	bounds: 558, 210, 184, 134
+RoleA_qunzi14
+	bounds: 1528, 181, 191, 93
+RoleA_qunzi15
+	bounds: 2, 806, 163, 142
+	rotate: 90
+RoleA_qunzi16
+	bounds: 2, 613, 268, 234
+RoleA_qunzi17
+	bounds: 1816, 169, 125, 219
+	rotate: 90
+RoleA_qunzi18
+	bounds: 1440, 2, 226, 248
+	rotate: 90
+RoleA_qunzi19
+	bounds: 1853, 1334, 236, 193
+	rotate: 90
+RoleA_qunzi2
+	bounds: 1580, 604, 210, 466
+	rotate: 90
+RoleA_qunzi20
+	bounds: 1626, 799, 200, 161
+RoleA_qunzi21
+	bounds: 142, 848, 993, 705
+	rotate: 90
+RoleA_qunzi22
+	bounds: 1221, 920, 403, 310
+RoleA_qunzi23
+	bounds: 807, 1142, 699, 466
+	rotate: 90
+RoleA_qunzi24
+	bounds: 759, 1304, 81, 106
+RoleA_qunzi25
+	bounds: 1261, 230, 154, 265
+	rotate: 90
+RoleA_qunzi3
+	bounds: 339, 675, 272, 271
+	rotate: 90
+RoleA_qunzi4
+	bounds: 485, 132, 166, 76
+RoleA_qunzi5
+	bounds: 290, 143, 145, 92
+RoleA_qunzi6
+	bounds: 431, 919, 378, 244
+RoleA_qunzi7
+	bounds: 849, 1683, 177, 158
+RoleA_qunzi8
+	bounds: 503, 1475, 366, 182
+	rotate: 90
+RoleA_qunzi9
+	bounds: 1171, 86, 142, 267
+	rotate: 90
+RoleA_st
+	bounds: 2, 1264, 536, 577
+RoleA_st2
+	bounds: 111, 286, 144, 205
+RoleA_st3
+	bounds: 1584, 1344, 462, 495
+RoleA_tf1
+	bounds: 1090, 1293, 88, 96
+RoleA_tf10
+	bounds: 1882, 48, 115, 144
+RoleA_tf11
+	bounds: 1713, 1281, 76, 61
+RoleA_tf12
+	bounds: 1877, 287, 157, 142
+RoleA_tf13
+	bounds: 1425, 1231, 48, 78
+RoleA_tf14
+	bounds: 746, 1222, 77, 82
+RoleA_tf15
+	bounds: 1094, 852, 124, 112
+RoleA_tf16
+	bounds: 1678, 63, 148, 202
+	rotate: 90
+RoleA_tf17
+	bounds: 2, 112, 153, 154
+RoleA_tf18
+	bounds: 1440, 587, 155, 174
+RoleA_tf19
+	bounds: 2, 1209, 34, 94
+RoleA_tf2
+	bounds: 1463, 246, 351, 251
+RoleA_tf20
+	bounds: 1710, 296, 255, 321
+RoleA_tf21
+	bounds: 1427, 18, 83, 191
+RoleA_tf22
+	bounds: 2, 198, 159, 264
+RoleA_tf23
+	bounds: 820, 257, 190, 293
+	rotate: 90
+RoleA_tf24
+	bounds: 833, 160, 120, 178
+	rotate: 90
+RoleA_tf25
+	bounds: 1288, 464, 363, 346
+RoleA_tf26
+	bounds: 1624, 347, 111, 147
+RoleA_tf27
+	bounds: 847, 966, 387, 271
+	offsets: 0, 0, 399, 271
+RoleA_tf28
+	bounds: 1475, 1024, 390, 485
+RoleA_tf3
+	bounds: 272, 651, 161, 42
+RoleA_tf4
+	bounds: 653, 50, 120, 157
+RoleA_tf5
+	bounds: 682, 156, 140, 149
+	rotate: 90
+RoleA_tf6
+	bounds: 21, 1202, 29, 96
+RoleA_tf7
+	bounds: 2, 1481, 42, 166
+RoleA_tf8
+	bounds: 435, 1370, 66, 179
+RoleA_tf9
+	bounds: 1794, 1264, 127, 237
+	rotate: 90
+RoleA_tou
+	bounds: 687, 708, 262, 282
+	rotate: 90
+RoleA_youmeimao
+	bounds: 1516, 1500, 80, 34
+RoleA_youshou1
+	bounds: 985, 449, 265, 177
+RoleA_youshou2
+	bounds: 3, 1621, 117, 126
+RoleA_youshou3
+	bounds: 372, 1815, 66, 26
+RoleA_youshou4
+	bounds: 227, 456, 295, 459
+	rotate: 90
+RoleA_youshou5
+	bounds: 1626, 969, 156, 53
+RoleA_youshou6
+	bounds: 1553, 1533, 64, 53
+RoleA_youyan1
+	bounds: 243, 1835, 7, 6
+RoleA_youyan2
+	bounds: 498, 1427, 74, 46
+RoleA_youyan3
+	bounds: 1024, 1790, 59, 51
+RoleA_youyan4
+	bounds: 1275, 1777, 96, 64
+RoleA_youyan5
+	bounds: 606, 1805, 35, 36
+RoleA_youyan6
+	bounds: 46, 1575, 67, 44
+RoleA_zuomeimao
+	bounds: 1373, 1805, 40, 36
+RoleA_zuoshou1
+	bounds: 1792, 431, 254, 236
+RoleA_zuoshou2
+	bounds: 1180, 160, 171, 141
+RoleA_zuoshou2a
+	bounds: 1222, 737, 421, 259
+RoleA_zuoshou3
+	bounds: 1600, 1725, 45, 116
+RoleA_zuoshou4
+	bounds: 2, 1716, 31, 125
+RoleA_zuoshou5
+	bounds: 1013, 276, 119, 246
+	rotate: 90
+RoleA_zuoyan1
+	bounds: 252, 1834, 7, 7
+RoleA_zuoyan2
+	bounds: 1955, 1809, 66, 32
+RoleA_zuoyan3
+	bounds: 46, 1533, 53, 40
+RoleA_zuoyan4
+	bounds: 1275, 1729, 67, 46
+RoleA_zuoyan5
+	bounds: 486, 1809, 32, 32
+RoleA_zuoyan6
+	bounds: 1901, 1807, 52, 34
+RoleAqiantui1
+	bounds: 556, 427, 152, 390
+	rotate: 90
+RoleAqiantui10
+	bounds: 1789, 848, 387, 257
+	rotate: 90
+RoleAqiantui11
+	bounds: 35, 1761, 76, 80
+RoleAqiantui2
+	bounds: 66, 369, 296, 283
+RoleAqiantui3
+	bounds: 2, 971, 248, 291
+RoleAqiantui4
+	bounds: 1180, 1226, 418, 615
+RoleAqiantui5
+	bounds: 931, 573, 391, 374
+	rotate: 90
+RoleAqiantui6
+	bounds: 257, 192, 150, 236
+	rotate: 90
+RoleAqiantui7
+	bounds: 767, 554, 211, 330
+	rotate: 90
+RoleAqiantui8
+	bounds: 651, 1728, 70, 113
+RoleAqiantui9
+	bounds: 688, 589, 131, 117
+heiping
+	bounds: 1248, 386, 213, 136
+heiping2
+	bounds: 562, 346, 211, 134
+	offsets: 1, 1, 213, 136

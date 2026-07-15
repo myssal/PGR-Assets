@@ -1,0 +1,17 @@
+V46UiMovie_HaiDaoCunCunMinD_Kou.png
+size:256,256
+filter:Linear,Linear
+repeat:xy
+scale:0.32
+face
+bounds:2,2,146,185
+mouth1
+bounds:87,180,28,7
+mouth2
+bounds:115,181,28,6
+mouth3
+bounds:25,178,26,9
+offsets:0,0,27,10
+teeth
+bounds:2,181,22,6
+offsets:0,0,22,7

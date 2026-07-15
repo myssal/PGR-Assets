@@ -1,0 +1,52 @@
+V46Activity_Hailunting_BG.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	repeat: xy
+	scale: 0.5
+Bg
+	bounds: 2, 1226, 1271, 801
+Bg_chuanghu1
+	bounds: 1535, 595, 412, 433
+	rotate: 90
+Bg_chuanghu3
+	bounds: 1275, 1869, 185, 158
+Bg_chuanghu5
+	bounds: 1275, 1009, 1018, 650
+	rotate: 90
+Bg_guangxiao
+	bounds: 648, 837, 284, 387
+Bg_quan
+	bounds: 934, 526, 599, 599
+	rotate: 90
+Bg_quanfaguang
+	bounds: 2, 580, 644, 644
+Bg_suipian1
+	bounds: 1517, 1989, 26, 38
+Bg_suipian10
+	bounds: 1461, 1932, 54, 95
+Bg_suipian2
+	bounds: 1816, 1939, 16, 47
+	rotate: 90
+Bg_suipian3
+	bounds: 1275, 1957, 27, 50
+	rotate: 90
+Bg_suipian4
+	bounds: 1275, 1986, 83, 41
+Bg_suipian5
+	bounds: 1986, 1979, 48, 41
+	rotate: 90
+Bg_suipian6
+	bounds: 1935, 1891, 34, 68
+	rotate: 90
+Bg_suipian7
+	bounds: 1935, 1927, 36, 74
+	rotate: 90
+Bg_suipian8
+	bounds: 1935, 1965, 49, 62
+Bg_suipian9
+	bounds: 1452, 1868, 40, 62
+Fg_hudieD32
+	bounds: 1803, 1814, 126, 122
+heiping
+	bounds: 1865, 1920, 107, 68
+	rotate: 90

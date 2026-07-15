@@ -1,0 +1,141 @@
+V46Activity_Hailunting_RoleB.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	repeat: xy
+	scale: 0.5
+Bg_chuanghu6
+	bounds: 2, 436, 1482, 596
+Bg_jingmian
+	bounds: 1485, 142, 890, 409
+	offsets: 0, 5, 890, 414
+	rotate: 90
+Bg_renwu
+	bounds: 1097, 152, 270, 282
+RoleB_guangxiao
+	bounds: 374, 62, 372, 463
+	rotate: 90
+RoleB_pifeng1
+	bounds: 644, 17, 585, 417
+RoleB_pifeng2
+	bounds: 1792, 783, 249, 209
+	rotate: 90
+RoleB_pifeng3
+	bounds: 2, 2, 466, 432
+	offsets: 0, 0, 495, 473
+RoleB_st
+	bounds: 27, 816, 227, 216
+RoleB_st2
+	bounds: 1759, 989, 49, 43
+RoleB_tf1
+	bounds: 67, 760, 71, 55
+RoleB_tf10
+	bounds: 938, 974, 66, 58
+RoleB_tf11
+	bounds: 2, 748, 75, 85
+RoleB_tf12
+	bounds: 1995, 615, 45, 104
+RoleB_tf13
+	bounds: 2006, 805, 35, 110
+RoleB_tf14
+	bounds: 1780, 858, 52, 80
+RoleB_tf15
+	bounds: 921, 261, 68, 173
+RoleB_tf16
+	bounds: 289, 341, 130, 93
+RoleB_tf17
+	bounds: 1919, 322, 127, 123
+RoleB_tf18
+	bounds: 1912, 650, 27, 88
+RoleB_tf19
+	bounds: 611, 641, 144, 176
+RoleB_tf2
+	bounds: 924, 679, 40, 88
+RoleB_tf20
+	bounds: 629, 963, 49, 69
+RoleB_tf21
+	bounds: 1767, 940, 112, 92
+RoleB_tf22
+	bounds: 1841, 572, 100, 254
+RoleB_tf23
+	bounds: 1880, 676, 41, 97
+RoleB_tf24
+	bounds: 1864, 300, 60, 169
+RoleB_tf25
+	bounds: 2, 837, 18, 70
+RoleB_tf26
+	bounds: 1997, 917, 46, 115
+RoleB_tf27
+	bounds: 772, 1006, 65, 26
+RoleB_tf28
+	bounds: 419, 330, 31, 104
+RoleB_tf29
+	bounds: 1810, 685, 29, 109
+RoleB_tf3
+	bounds: 2, 338, 49, 96
+RoleB_tf30
+	bounds: 1810, 1011, 31, 21
+RoleB_tf4
+	bounds: 2, 908, 23, 124
+RoleB_tf5
+	bounds: 527, 806, 57, 23
+RoleB_tf6
+	bounds: 1909, 362, 41, 89
+RoleB_tf7
+	bounds: 569, 579, 40, 81
+RoleB_tf8
+	bounds: 629, 773, 82, 72
+RoleB_tf9
+	bounds: 2004, 451, 40, 104
+RoleB_tfyy
+	bounds: 1881, 1010, 11, 22
+RoleB_tou
+	bounds: 757, 764, 136, 151
+RoleB_tui
+	bounds: 1882, 721, 164, 147
+RoleB_youdabi
+	bounds: 245, 860, 105, 172
+RoleB_youshou1
+	bounds: 1834, 443, 169, 155
+RoleB_youshou2
+	bounds: 679, 1004, 19, 28
+RoleB_youshou3
+	bounds: 365, 993, 16, 39
+RoleB_youshou4
+	bounds: 319, 997, 13, 35
+RoleB_youshou5
+	bounds: 221, 1013, 20, 19
+RoleB_youshou6
+	bounds: 615, 1015, 20, 17
+RoleB_youshou7
+	bounds: 514, 938, 113, 94
+RoleB_youyan1
+	bounds: 27, 1005, 41, 27
+RoleB_youyan2
+	bounds: 1042, 1014, 32, 18
+RoleB_youyan3
+	bounds: 414, 1020, 15, 12
+RoleB_youyan4
+	bounds: 382, 1017, 30, 15
+RoleB_zuoshou1
+	bounds: 789, 675, 142, 118
+RoleB_zuoshou2
+	bounds: 384, 826, 206, 437
+	rotate: 90
+RoleB_zuoshou3
+	bounds: 698, 622, 98, 87
+RoleB_zuoshou4
+	bounds: 337, 932, 43, 100
+RoleB_zuoshou5
+	bounds: 1940, 557, 73, 163
+RoleB_zuoshou6
+	bounds: 185, 816, 80, 70
+RoleB_zuoshou7
+	bounds: 823, 948, 115, 84
+RoleB_zuoyan1
+	bounds: 456, 995, 48, 37
+RoleB_zuoyan2
+	bounds: 774, 974, 40, 30
+RoleB_zuoyan3
+	bounds: 838, 1017, 17, 15
+RoleB_zuoyan4
+	bounds: 1005, 1009, 35, 23

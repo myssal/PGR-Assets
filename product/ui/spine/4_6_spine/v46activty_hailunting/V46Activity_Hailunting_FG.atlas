@@ -1,0 +1,257 @@
+V46Activity_Hailunting_FG.png
+	size: 2048, 2048
+	filter: Linear, Linear
+	repeat: xy
+Bg_chuanghu2
+	bounds: 2, 1153, 562, 655
+Bg_chuanghu4
+	bounds: 2, 532, 672, 432
+	rotate: 90
+Fg_Dhudie1
+	bounds: 1744, 170, 226, 156
+Fg_Dhudie13
+	bounds: 532, 769, 512, 512
+Fg_Dhudie1b
+	bounds: 1516, 170, 226, 156
+Fg_Dhudie1c
+	bounds: 1288, 171, 226, 156
+Fg_Dhudie2
+	bounds: 1857, 547, 185, 171
+	rotate: 90
+Fg_Dhudie2b
+	bounds: 1857, 734, 185, 171
+	rotate: 90
+Fg_Dhudie2c
+	bounds: 1852, 921, 185, 171
+	rotate: 90
+Fg_chuanghu
+	bounds: 1046, 689, 560, 513
+	rotate: 90
+Fg_guangdian1
+	bounds: 474, 314, 201, 185
+	offsets: 0, 0, 201, 224
+Fg_guangdian2
+	bounds: 963, 278, 323, 228
+Fg_guangdian3
+	bounds: 1508, 1108, 700, 394
+	rotate: 90
+Fg_hudieA1
+	bounds: 1250, 1695, 123, 113
+Fg_hudieA2
+	bounds: 435, 501, 266, 309
+	rotate: 90
+Fg_hudieA3
+	bounds: 1451, 329, 190, 219
+	rotate: 90
+Fg_hudieA4
+	bounds: 1972, 178, 58, 54
+Fg_hudieA5
+	bounds: 746, 325, 181, 207
+	rotate: 90
+Fg_hudieB1
+	bounds: 1007, 1567, 241, 241
+Fg_hudieB2
+	bounds: 677, 358, 57, 67
+Fg_hudieB3
+	bounds: 1229, 484, 203, 220
+	rotate: 90
+Fg_hudieB4
+	bounds: 2, 160, 165, 158
+Fg_hudieB5
+	bounds: 1541, 52, 116, 129
+	rotate: 90
+Fg_hudieC1
+	bounds: 435, 835, 84, 83
+Fg_hudieC2
+	bounds: 1481, 1681, 25, 24
+Fg_hudieC3
+	bounds: 525, 1633, 36, 38
+Fg_hudieC4
+	bounds: 855, 1794, 14, 14
+Fg_hudieC5
+	bounds: 75, 1214, 47, 42
+Fg_hudieC6
+	bounds: 1309, 1662, 35, 31
+Fg_hudieC7
+	bounds: 1375, 1783, 11, 10
+Fg_hudieD1
+	bounds: 404, 441, 66, 58
+Fg_hudieD10
+	bounds: 677, 427, 67, 72
+Fg_hudieD11
+	bounds: 734, 1786, 22, 22
+Fg_hudieD12
+	bounds: 1804, 28, 71, 65
+Fg_hudieD13
+	bounds: 1904, 1217, 131, 136
+Fg_hudieD14
+	bounds: 1105, 120, 156, 164
+	rotate: 90
+Fg_hudieD15
+	bounds: 1890, 387, 155, 158
+Fg_hudieD16
+	bounds: 681, 1748, 51, 60
+Fg_hudieD17
+	bounds: 1046, 1022, 96, 82
+Fg_hudieD18
+	bounds: 345, 1792, 18, 16
+Fg_hudieD19
+	bounds: 1449, 1148, 56, 51
+Fg_hudieD2
+	bounds: 1410, 1281, 92, 99
+Fg_hudieD20
+	bounds: 874, 1765, 48, 43
+Fg_hudieD21
+	bounds: 1972, 311, 72, 74
+Fg_hudieD22
+	bounds: 620, 64, 132, 121
+Fg_hudieD23
+	bounds: 1904, 1501, 137, 139
+Fg_hudieD24
+	bounds: 959, 1639, 45, 49
+Fg_hudieD25
+	bounds: 2, 69, 136, 89
+Fg_hudieD26
+	bounds: 963, 694, 74, 73
+Fg_hudieD27
+	bounds: 436, 920, 93, 83
+Fg_hudieD28
+	bounds: 754, 62, 127, 123
+Fg_hudieD29
+	bounds: 1250, 1618, 57, 75
+Fg_hudieD3
+	bounds: 1046, 1106, 150, 154
+Fg_hudieD30
+	bounds: 1037, 2, 190, 120
+Fg_hudieD31
+	bounds: 1452, 1498, 54, 53
+Fg_hudieD32
+	bounds: 329, 119, 252, 243
+Fg_hudieD33
+	bounds: 219, 18, 77, 79
+Fg_hudieD34
+	bounds: 1672, 55, 130, 113
+Fg_hudieD35
+	bounds: 594, 232, 81, 82
+Fg_hudieD36
+	bounds: 1067, 1477, 109, 88
+Fg_hudieD37
+	bounds: 1397, 1707, 99, 101
+Fg_hudieD38
+	bounds: 411, 1005, 146, 119
+	rotate: 90
+Fg_hudieD39
+	bounds: 480, 1673, 199, 135
+Fg_hudieD4
+	bounds: 1410, 50, 129, 118
+Fg_hudieD40
+	bounds: 208, 257, 264, 277
+Fg_hudieD41
+	bounds: 1271, 53, 116, 137
+	rotate: 90
+Fg_hudieD42
+	bounds: 892, 66, 121, 143
+	rotate: 90
+Fg_hudieD43
+	bounds: 334, 30, 101, 87
+Fg_hudieD44
+	bounds: 1561, 521, 289, 294
+	rotate: 90
+Fg_hudieD45
+	bounds: 746, 508, 215, 259
+Fg_hudieD46
+	bounds: 681, 1716, 28, 30
+Fg_hudieD47
+	bounds: 2, 485, 220, 204
+	rotate: 90
+Fg_hudieD48
+	bounds: 1561, 812, 289, 294
+Fg_hudieD49
+	bounds: 333, 1094, 72, 57
+Fg_hudieD5
+	bounds: 208, 539, 67, 72
+Fg_hudieD50
+	bounds: 1451, 576, 98, 111
+Fg_hudieD51
+	bounds: 1972, 234, 71, 75
+Fg_hudieD52
+	bounds: 140, 18, 77, 79
+Fg_hudieD53
+	bounds: 1198, 1202, 51, 50
+Fg_hudieD54
+	bounds: 169, 99, 156, 163
+	rotate: 90
+Fg_hudieD55
+	bounds: 1178, 1517, 45, 48
+Fg_hudieD56
+	bounds: 2, 717, 146, 145
+Fg_hudieD6
+	bounds: 442, 1706, 35, 30
+Fg_hudieD7
+	bounds: 1890, 332, 64, 53
+Fg_hudieD8
+	bounds: 1429, 1201, 75, 78
+Fg_hudieD9
+	bounds: 2, 1207, 71, 73
+Fg_hudieE1
+	bounds: 365, 1774, 34, 34
+Fg_hudieE2
+	bounds: 1046, 958, 62, 62
+Fg_hudieE3
+	bounds: 892, 1739, 25, 24
+Fg_hudieF1
+	bounds: 1904, 1355, 124, 144
+Fg_hudieF2
+	bounds: 1375, 1795, 14, 13
+Fg_hudieF3
+	bounds: 1451, 526, 63, 48
+Fg_hudieF4
+	bounds: 637, 1651, 21, 20
+Fg_hudieF5
+	bounds: 1397, 1382, 109, 110
+Fg_hudieF6
+	bounds: 336, 1800, 7, 8
+Fg_hudie_gd1
+	bounds: 1489, 1046, 65, 60
+Fg_hudie_gd2
+	bounds: 963, 508, 264, 179
+Fg_hudie_gd3
+	bounds: 1904, 1642, 135, 166
+Fg_hudie_gd4
+	bounds: 471, 73, 147, 120
+Fg_hudie_gd5
+	bounds: 2, 320, 170, 163
+Fg_hudie_gd6
+	bounds: 1804, 95, 173, 73
+Fg_suipian1
+	bounds: 925, 1690, 79, 118
+Fg_suipian10
+	bounds: 1131, 408, 122, 98
+Fg_suipian11
+	bounds: 435, 773, 84, 60
+Fg_suipian12
+	bounds: 565, 1549, 37, 40
+Fg_suipian2
+	bounds: 1288, 366, 155, 116
+Fg_suipian3
+	bounds: 1904, 1123, 139, 92
+Fg_suipian4
+	bounds: 1672, 328, 191, 216
+	rotate: 90
+Fg_suipian5
+	bounds: 566, 1591, 69, 80
+Fg_suipian6
+	bounds: 406, 1738, 70, 70
+Fg_suipian7
+	bounds: 1402, 1227, 25, 48
+Fg_suipian8
+	bounds: 74, 713, 88, 51
+Fg_suipian9
+	bounds: 372, 1049, 30, 43
+RoleA_qunzi1
+	bounds: 550, 1251, 956, 557
+heiping
+	bounds: 677, 187, 213, 136
+heiping2
+	bounds: 892, 189, 211, 134
+	offsets: 1, 1, 213, 136
